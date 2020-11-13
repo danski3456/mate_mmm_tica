@@ -1,19 +1,11 @@
-# This is a page about calculus
+# Test set
 
-1. Section 1.1, Problem 1  <details> Hola que tal</details>
-2. Section 1.1, Problem 2  
-This was easy, $$2+2 = X$$
-3. Section 1.1, Problem 3  <details>
-  This is a much longer thing
-  
-  $$\int_0^1 xdx = \frac{1}{2}$$
-</details>
 
 <ul>
-{% for member in site.data.test %}
+{% for member in site.data.calculus %}
   <li>
       <details>
-      <summary>	{{member.name}} </summary>
+      <summary>	Section {{member.section}}, Problem {{member.number}} </summary>
 	{{member.content}}
       </details>
   </li>

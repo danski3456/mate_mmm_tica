@@ -1,0 +1,26 @@
+- section: 1.1
+  number: 1
+  content: |
+          This is somewhat a long thing
+          and here is some math $$x + 3 = 5$$
+
+- section: 1.1
+  number: 2
+  content: |
+          This is somewhat a long thing
+          and here is some math $$x + 3 = 5$$
+
+- section: 1.1
+  number: 3
+  content: |
+          This is somewhat a long thing
+          and here is some math $$x + 3 = 5$$
+          Tendria que poder poiner $a-2$.
+
+- section: 1.1
+  number: 4
+  content: |
+          This is somewhat a long thing
+          and here is some math $$x + 3 = 5$$
+          Puedo poner mate $x$ es $3$?
+
