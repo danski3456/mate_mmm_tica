@@ -8,3 +8,15 @@ This was easy, $$2+2 = X$$
   
   $$\int_0^1 xdx = \frac{1}{2}$$
 </details>
+
+<ul>
+{% for member in site.data.test %}
+  <li>
+      <details>
+      <summary>	{{member.name}} </summary>
+	{{member.content}}
+      </details>
+  </li>
+{% endfor %}
+</ul>
+
