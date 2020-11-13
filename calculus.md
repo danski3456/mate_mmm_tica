@@ -1,12 +1,9 @@
 # This is a page about calculus
 
-* Section 1.1, Problem 1  
-<details>
-  Hola que tal
-</details>
-* Section 1.1, Problem 2  
+1. Section 1.1, Problem 1  <details> Hola que tal</details>
+2. Section 1.1, Problem 2  
 This was easy, $2+2 = X$
-* Section 1.1, Problem 3  
+3. Section 1.1, Problem 3  
 <details>
   This is a much longer thing
   
